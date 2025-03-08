@@ -1,0 +1,9 @@
+{
+  "templates": {
+    "cookiecutter-uv": {
+      "path": "./cookiecutter-uv",
+      "title": "pjbeyer's cookiecutter-uv",
+      "description": "Initialize a modern Python project"
+    }
+  }
+}

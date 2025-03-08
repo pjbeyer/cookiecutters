@@ -1,0 +1,3 @@
+[submodule "cookiecutter-uv"]
+	path = cookiecutter-uv
+	url = https://github.com/pjbeyer/cookiecutter-uv.git
